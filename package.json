@@ -1,0 +1,23 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunache/Constructor-Hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunache/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/sunache/Constructor-Hangman#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "random-word": "^2.0.0"
+  }
+}
